@@ -2,11 +2,11 @@
 
 A Java-based 2D game built using LibGDX framework. This project demonstrates a side-scrolling platformer game with multiple levels, player mechanics, enemies, and collectibles.
 
-##  Game Overview
+## Game Overview
 
 This is a 2D platformer game where players control a character to navigate through various levels, collect items, avoid enemies, and reach the end goal. The game features smooth animations, collision detection, and progressively challenging levels.
 
-##  Features
+## Features
 
 - **Player Movement**: Run, jump, and interact with the game world
 - **Multiple Levels**: Progress through different challenging stages
@@ -16,7 +16,7 @@ This is a 2D platformer game where players control a character to navigate throu
 - **Animated Sprites**: Smooth character and object animations
 - **Level Progression**: Complete objectives to advance
 
-## 🎯 Key Components
+## Key Components
 ### Systems
 
 - **Rendering System**: Handles sprite drawing and animations
@@ -24,7 +24,7 @@ This is a 2D platformer game where players control a character to navigate throu
 - **Input System**: Processes player controls and interactions
 - **Audio System**: Manages sound effects and background music
 
-## 🕹️ Controls
+## Controls
 
 - **Arrow Keys**: Move left/right
 - **Spacebar**: Jump
